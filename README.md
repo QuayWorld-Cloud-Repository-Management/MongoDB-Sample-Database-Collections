@@ -1,1 +1,25 @@
 # MongoDB-Sample-Database-Collections
+
+- sample_airbnb.listingsAndReviews.json
+- sample_analytics.accounts.json
+- sample_analytics.customers.json
+- sample_analytics.transactions.json
+- sample_geospatial.shipwrecks.json
+- sample_guides.planets.json
+- sample_mflix.comments.json
+- sample_mflix.embedded_movies.json
+- sample_mflix.movies.json
+- sample_mflix.sessions.json
+- sample_mflix.theaters.json
+- sample_mflix.users.json
+- sample_restaurants.neighborhoods.json
+- sample_restaurants.restaurants.json
+- sample_supplies.sales.json
+- sample_training.companies.json
+- sample_training.grades.json
+- sample_training.inspections.json
+- sample_training.posts.json
+- sample_training.routes.json
+- sample_training.trips.json
+- sample_training.zips.json
+- sample_weatherdata.data.json
